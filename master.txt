@@ -1,2 +1,3 @@
 master
+kim
 master.txt입니다.
